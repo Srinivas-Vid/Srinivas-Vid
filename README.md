@@ -1,5 +1,5 @@
 
-readme_content = """\
+
 # 👋 Hi there, I'm Srinivas Erramalla
 
 ### 💻 Senior Undergraduate | Computer Science & Engineering  
