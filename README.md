@@ -85,9 +85,4 @@ I'm always excited to connect with like-minded people and collaborate on innovat
 ---
 """
 
-# Save to file
-with open("/mnt/data/Srinivas-GitHub-README.md", "w") as f:
-    f.write(readme_content)
-
-"/mnt/data/Srinivas-GitHub-README.md"
 
