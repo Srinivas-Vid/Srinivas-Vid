@@ -1,4 +1,3 @@
-# Creating the complete README.md content with all the enhancements included
 
 readme_content = """\
 # 👋 Hi there, I'm Srinivas Erramalla
