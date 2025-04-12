@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas Erramalla</h1>
-<h3 align="center">Machine Learning Enthusiast | Aspiring Full Stack Developer | Data Analyst | F</h3>
+<h3 align="center">Machine Learning Enthusiast | Aspiring Full Stack Developer | Data Analyst </h3>
 
 ---
 
