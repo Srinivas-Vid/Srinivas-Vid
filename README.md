@@ -638,7 +638,7 @@ Timeline of Professional Experience
   <img alt="github-snake" src="https://raw.githubusercontent.com/Srinivas-Vid/Srinivas-Vid/output/github-snake-dark.svg" />
 </picture>
 
-> *Add this snake animation by setting up a GitHub Actions workflow in your profile repo.*
+> 
 
 </div>
 
